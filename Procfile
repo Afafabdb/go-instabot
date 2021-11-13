@@ -1,0 +1,1 @@
+worker: go instabot.go
